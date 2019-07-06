@@ -2,7 +2,7 @@
 
 # Hints
 
-* every exercise is described step by step inside of the `./hello/src/hello.index.ts` file in form of the TODO comments
+* every exercise is described step by step inside of the `./hello/src/hello/index.ts` file in form of the TODO comments
 
 * don't forget to run `npm run build` (or run `npm run build:watch` in other console) in the base `./hello` folder so 
   that you compile your Typescript source code into javascript which can be executed using `schematics` command
